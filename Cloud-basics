@@ -33,3 +33,8 @@ The use of software and hardware over the internet
 computing based on internet --> cloud computing
 
 Cloud = Virtualization + Automation
+
+linux --> ssh --> port 22
+windows --> rdp --> port 3389
+http --> port 80
+https --> port 443
