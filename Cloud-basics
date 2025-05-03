@@ -38,3 +38,5 @@ linux --> ssh --> port 22
 windows --> rdp --> port 3389
 http --> port 80
 https --> port 443
+
+ssh -i "may-2025-key.pem" ec2-user@35.154.93.222
