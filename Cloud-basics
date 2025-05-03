@@ -1,0 +1,31 @@
+Cloud 
+
+On-Premise
+
+AZ --> 1 or more discrete DCs
+
+Region >=2 AZs
+       <=6 AZs
+       = 3 AZs usually
+
+CDN
+Caching
+
+personal use
+free tier
+basic plan
+
+
+How do we go about selecting a Region
+1. Customer Location
+2. Network Latency
+3. Government Regulations
+4. Service availability
+5. COST
+
+Servers --> EC2 - Elastic Compute Cloud
+Storage --> S3 - Simple Storage Service
+Billing - 
+User Management - IAM
+
+Definition:
