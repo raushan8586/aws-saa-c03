@@ -40,6 +40,10 @@ http --> port 80
 https --> port 443
 
 ssh -i "may-2025-key.pem" ec2-user@35.154.93.222
+ssh -i "may-2025-key.pem" ubuntu@35.154.93.222
+
+ec2-user --> default user for amazon-linux, centos AMI
+ubuntu --> default user for ubuntu AMI
 
 2007 --> EC2, S3, SQS
 2025 --> 200+ services
