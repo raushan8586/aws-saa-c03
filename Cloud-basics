@@ -40,3 +40,6 @@ http --> port 80
 https --> port 443
 
 ssh -i "may-2025-key.pem" ec2-user@35.154.93.222
+
+2007 --> EC2, S3, SQS
+2025 --> 200+ services
