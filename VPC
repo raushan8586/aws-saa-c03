@@ -45,3 +45,10 @@ total number of IP addresses demoted by 172.31.0.0/16 = 2^16 ~ 65K
 ..
 ..
 172.31.0.255
+
+5 reserved IPs in a subnet:
+10.0.0.0: Network address, 
+10.0.0.1: Reserved for the VPC router in AWS, 
+10.0.0.2: Reserved by AWS for DNS, 
+10.0.0.3: Reserved for future use, and 
+10.0.0.255: Broadcast address
