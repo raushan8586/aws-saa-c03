@@ -39,6 +39,8 @@ windows --> rdp --> port 3389
 http --> port 80
 https --> port 443
 
+chmod 400 may-2025-key.pem --> key should obky have the read permission
+
 ssh -i "may-2025-key.pem" ec2-user@35.154.93.222
 ssh -i "may-2025-key.pem" ubuntu@35.154.93.222
 
