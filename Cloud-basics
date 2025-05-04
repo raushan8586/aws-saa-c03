@@ -43,3 +43,14 @@ ssh -i "may-2025-key.pem" ec2-user@35.154.93.222
 
 2007 --> EC2, S3, SQS
 2025 --> 200+ services
+
+sudo su -
+1  apt update -y
+    2  clear
+    3  lsof -i -P -n | grep LISTEN
+    4  apt install apache2 -y
+    5  clear
+    6  lsof -i -P -n | grep LISTEN
+    7  cd /var/www/html
+    8  ls -l
+    9  vi cloud-page.html
