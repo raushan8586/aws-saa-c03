@@ -11,3 +11,8 @@ RAM --> In Memory Database
 EBS --> Elastic Block Store --> EBS Volume
 use-cases: Boot Volume, Database Servers
 
+
+* multiple ebs volumes could be attached to the same ec2 instances
+* same volume can not be attahed to the multiple instances at the same time
+* EC2 instance and the volume are AZ locked => they need to be in the same AZ
+
