@@ -43,3 +43,8 @@ If you need to access the same volume from an ec2 instance in another AZ
 First take the snapshot of the volume. Snapshots get stored at the region level
 Use the snaoshot to create volume in another AZ
 
+-------------------------------------------------------------------------------------------------
+
+EFS --> Elastic File System
+EFS > 3x costlier than EBS
+
