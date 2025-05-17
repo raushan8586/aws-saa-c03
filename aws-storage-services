@@ -22,3 +22,16 @@ attach --> Management Console
 format --> mkfs (linux command)
 mount --> mount (linux command)
 
+sudo su -
+df -h --> disk usage
+lsblk --> list block devices
+fdisk -l --> list all the disk partitions
+
+df -hT --> know the filesystem --> ext4 or xfs
+
+mkfs.ext4 /dev/xvdf
+mkdir /data-volume
+mount /dev/xvdf
+
+umount /dev/xvdf
+
