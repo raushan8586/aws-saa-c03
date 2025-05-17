@@ -1,0 +1,13 @@
+AWS Storage Services
+1. EBS --> Elastic Block Store --> EBS Volume
+2. EFS --> Elastic File System
+3. S3 --> Simple Storage Service --> Object Storage
+
+IOPS --> Input Output Per Sec
+HDD / SSD
+
+RAM --> In Memory Database
+
+EBS --> Elastic Block Store --> EBS Volume
+use-cases: Boot Volume, Database Servers
+
