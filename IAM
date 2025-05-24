@@ -1,0 +1,11 @@
+User groups
+Users
+Policies / permissions
+
+Role --> we assign to service 
+
+create role --> ec2 --> admin -->  role-ec2-admin-24th-may-2025
+
+ec2 instance --> assign the role to the specific service
+
+to enhance the capability of a service, we attach IAM role
