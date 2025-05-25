@@ -3,3 +3,6 @@ https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
 Commands Reference:
 https://docs.aws.amazon.com/cli/latest/
+
+configure multiple profiles
+https://stackoverflow.com/questions/593334/how-to-use-multiple-aws-accounts-from-the-command-line
