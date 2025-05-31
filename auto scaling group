@@ -5,3 +5,11 @@
 11 PM - 7 AM (nd) --> 500 hits/sec --> 5 servers --> 8 hrs
 
 auto-scaling confguration for the applications
+
+if cpu>70% for 3 datapoints within 3 min, scale out
+if cpu<25% for 10 datapoints within 10 min, scale In
+
+pre-configuration --> template (custom AMI + Instance type + SG + Key-pair)
+
+Horizontal auto-scaling
+Vertical auto-scaling
