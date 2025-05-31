@@ -1,0 +1,7 @@
+7 AM - 10 AM --> 1000 hits/sec --> 10 servers --> 3 hrs
+10 AM - 2 PM --> 2500 hits/sec --> 25 servers --> 4 hrs
+2 PM - 6 PM --> 1500 hits/sec --> 15 servers --> 4 hrs
+6 PM - 11 PM --> 10000 hits/sec --> 100 servers --> 5 hrs
+11 PM - 7 AM (nd) --> 500 hits/sec --> 5 servers --> 8 hrs
+
+auto-scaling confguration for the applications
