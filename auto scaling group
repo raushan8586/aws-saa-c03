@@ -13,3 +13,12 @@ pre-configuration --> template (custom AMI + Instance type + SG + Key-pair)
 
 Horizontal auto-scaling
 Vertical auto-scaling
+
+
+sudo su -
+apt update -y
+apt install apache2 -y
+lsof -i -P -n | grep LISTEN
+
+cd /var/www/html
+vi my-page.html
