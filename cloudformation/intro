@@ -7,3 +7,9 @@ Beanstalk -->  application
 EKS --> kubernetes cluster
 
 Terraform
+
+LAMP Stack
+L --> Linux
+A --> Apache2 --> web server
+M --> MySQL
+P --> Php
