@@ -1,1 +1,9 @@
+Cloudformation
 
+AWS Service for to automate infrastructure provisioning
+Infrastructure as Code
+
+Beanstalk -->  application
+EKS --> kubernetes cluster
+
+Terraform
