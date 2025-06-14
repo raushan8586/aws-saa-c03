@@ -1,10 +1,15 @@
 Cost Optimization
 90% --> EC2 --> Server
 
-20% --> 8 Cores
+20% --> 8 Cores --> Efficient utilization of the resources
 
 Auto-Scaling
 
 <5% --> Storage --> S3 --> Lifecycle Rule
 
 Delete objects/content which could be deleted --> Flow Logs
+
+https://calculator.aws/#/
+AWS Compute Optimizer
+
+FinOps
