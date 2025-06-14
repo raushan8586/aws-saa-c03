@@ -10,6 +10,6 @@ Terraform
 
 LAMP Stack
 L --> Linux
-A --> Apache2 --> web server
+A --> Apache2/httpd --> web server
 M --> MySQL
 P --> Php
