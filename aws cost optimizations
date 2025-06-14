@@ -1,0 +1,10 @@
+Cost Optimization
+90% --> EC2 --> Server
+
+20% --> 8 Cores
+
+Auto-Scaling
+
+<5% --> Storage --> S3 --> Lifecycle Rule
+
+Delete objects/content which could be deleted --> Flow Logs
