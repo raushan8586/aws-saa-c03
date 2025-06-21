@@ -1,0 +1,18 @@
+Open Cloudshell
+
+Make sure, below 3 CLIs are installed:
+
+aws cli --> aws --version
+kubectl --> kubectl version
+Install eksctl --> https://eksctl.io/installation/
+
+
+eksctl create cluster eksdemo1
+
+kubectl get pods
+
+kubectl apply -f nginx-pod.yaml
+
+kubectl delete -f nginx-pod.yaml
+
+eksctl delete cluster eksdemo1
