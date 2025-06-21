@@ -25,3 +25,6 @@ https://docs.aws.amazon.com/lambda/latest/dg/lambda-samples.html
 
 Beanstalk
 https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/tutorials.html
+
+K8s deployment strategies:
+https://spacelift.io/blog/kubernetes-deployment-strategies
