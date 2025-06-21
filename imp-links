@@ -28,3 +28,6 @@ https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/tutorials.html
 
 K8s deployment strategies:
 https://spacelift.io/blog/kubernetes-deployment-strategies
+
+eksctl
+https://eksctl.io/installation/
