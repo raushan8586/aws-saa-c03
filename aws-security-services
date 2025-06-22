@@ -1,0 +1,17 @@
+AWS Security Services:
+1. IAM
+  IAM users, groups, roles --> enforce least privilege access
+  Amazon Cognito --> active directory on-premise --> manage user authentication, authorization, and user-data for mobile and web applications
+
+2. Network and Infrastructure Security
+VPC --> 
+	Private Subnets, 
+  Jump Server/Bastion host, 
+  Security Group, 
+  NACL, 
+  Flow Logs
+  Network Firewall
+WAF --> Web Application Firewall --> protect web applications from common exploits
+Shield -> DDoS protection
+
+
