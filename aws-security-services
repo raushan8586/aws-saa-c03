@@ -29,6 +29,7 @@ Shield -> DDoS protection
 	AWS Secrets Manager --> store and rotate secrets APIs keys, database credentials
 
 Trusted Advisor --> provides recommendations on Security, Performance, Operational Excellence, Fault Tolerance, Service limits
+Certificate Manager
 	
 
 
