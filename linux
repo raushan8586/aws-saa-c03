@@ -29,4 +29,18 @@ Linux distributions:
 CentOS - Amazon Linux, Redhat, Fedora - yum is the default package manager
 Debian - Ubuntu - apt is the default package manager
 
+---------------------------------------------
+Commands
+ssh -i "aws-aug-2025.pem" ec2-user@47.129.162.250   ---> amazon linux AMI / redhat
+ssh -i "aws-aug-2025.pem" ubuntu@47.129.162.250  ---> ubuntu AMI
+
+sudo su -
+apt update -y
+lsof -i -P -n | grep LISTEN
+apt install apache2 -y
+
+cd /var/www/html
+vi
+
+
 
