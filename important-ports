@@ -1,0 +1,8 @@
+21 --> FTP
+22 --> ssh
+53 --> DNS
+3389 --> RDP
+80 --> http
+443 --> https
+2049 -> NFS
+3306 --> mysql
