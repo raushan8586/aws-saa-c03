@@ -25,7 +25,7 @@ Shield -> DDoS protection
 
 4. Data Protection
 	Data encryption at rest and in transit
-	KMS --> Key Manageemt Service
+	KMS --> Key Managememt Service
 	AWS Secrets Manager --> store and rotate secrets APIs keys, database credentials
 
 Trusted Advisor --> provides recommendations on Security, Performance, Operational Excellence, Fault Tolerance, Service limits
