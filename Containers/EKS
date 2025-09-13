@@ -1,3 +1,10 @@
+CE --> Container Engine like Docker
+COE --> Container Orchestration Engine --> K8s
+  Auto-scaling of containers (Horizontal Pod AutoScaler + Cluster AutoScaler)
+  Auto-healing (self-healing)
+  auto load-balancing of requests across containers
+  auto-deployment to avoid downtime during deployment (rolling update, B/G deployment)
+  
 Open Cloudshell
 
 Make sure, below 3 CLIs are installed:
