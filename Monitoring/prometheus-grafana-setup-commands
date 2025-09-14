@@ -96,3 +96,6 @@ Grafana:
    68  systemctl status grafana-server
    69  lsof -i -P -n | grep LISTEN
    70  history
+
+
+https://grafana.com/grafana/dashboards/1860-node-exporter-full/
