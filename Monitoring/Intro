@@ -1,0 +1,16 @@
+Monitoring tool --> Prometheus & Grafana
+
+Application health
+uptime
+Troubleshoot/mitigate the issue
+
+Metrics
+--------
+CPU/memory --> Server utilization --> saturation
+Application Response time 
+Network Latency
+Status code
+Errors & Exceptions
+Throughput
+Disk Ops (read/write)
+Lag (Difference between publisher rate and consumer rate)
