@@ -14,3 +14,10 @@ Errors & Exceptions
 Throughput
 Disk Ops (read/write)
 Lag (Difference between publisher rate and consumer rate)
+
+Generic components of any monitoring tool
+------------------------------------------
+1. Database --> Prometheus --> timeseries DB
+2. Visualization tool --> Grafana
+3. agent (data collectors)
+
